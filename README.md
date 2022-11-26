@@ -2,6 +2,7 @@
 
 #### About
 This is a pet-project, it should not be used for commercial purposes!
+The web application that passes the combination phrase/letters and returns the result.
 
 ##### Software that you need
 * Python 3.8.
